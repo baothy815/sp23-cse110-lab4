@@ -1,4 +1,4 @@
-# # CSE110 Lab 4 Part 2
+# CSE110 Lab 4 Part 2
 1. Line 12 returns 3 because we are calling the variable i and it adds up the total number of items in the array that we passed into the function.
 2. Line 13 returns 150 because in the for it's iterating through the array of prices and multiplying 0.5 (1-0.5) and storing into the variable called discountedPrice.
 3. At line 14 it returns 150 because we are taking discountedPrice and multiplying 100 and also dividing 100. 
